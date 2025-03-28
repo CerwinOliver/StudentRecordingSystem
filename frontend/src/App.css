@@ -1,0 +1,17 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; 
+  text-align: center; 
+}
+
+h1 {
+  margin-bottom: 20px; 
+}
+
+.student-form, .student-list {
+  width: 100%;
+  max-width: 600px; 
+  margin: 0 auto;
+}
